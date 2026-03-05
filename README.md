@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Anisha
 
-<!--
-**Anisha-Chhajer-Jain/Anisha-Chhajer-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🌱 Currently learning **MERN Stack**
+- 💡 Interested in **Web Development & AI**
+- 🏆 Participated in **Hackathons**
+- 🎯 Goal: Become a **Full Stack Developer**
+
+---
+
+## 🛠️ Tech Stack
+- Languages: JavaScript, C++, Python
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, Figma
+
+---
+
+## 📊 GitHub Stats
+![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/YOURPROFILE
+- GitHub: https://github.com/YOURUSERNAME
