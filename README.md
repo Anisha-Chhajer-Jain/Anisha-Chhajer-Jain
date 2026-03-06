@@ -110,17 +110,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-## 📢 Connect With Me
+## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jadav-parth/)
-- 🐦 [Twitter](https://x.com/Parthjadav_2004)
-- ✉️ Email: parthjadav.cg@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/anisha-chhajer-844114367/)
+- 🐦 [Twitter](https://x.com/anisha_chhajer)
+- ✉️ Email: anishachhajer16@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-## 🔗 Connect With Me
 
-- 💼 LinkedIn: 
-- 💻 GitHub: https://github.com/Anisha-Chhajer-Jain
+
 
 
