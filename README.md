@@ -24,14 +24,14 @@
 ## 📊 GitHub Stats
 ![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
----
+
 
 ## 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/YOURPROFILE
 - GitHub: https://github.com/YOURUSERNAME
- -->
+ --> -->
 
-# Hi 👋, I'm Anisha  
+ # Hi 👋, I'm Anisha  
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
@@ -39,7 +39,7 @@
 
 🎓 Student | 💻 Developer | 🚀 Tech Enthusiast  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 👩‍💻 About Me
 - 🌱 Currently learning **MERN Stack**
@@ -47,7 +47,7 @@
 - 🏆 Participated in **Hackathons**
 - 🎯 Goal: Become a **Full Stack Developer**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +73,22 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+## 🚀 Skills
+
+- **Frontend Development:** React, Next Js, HTML, CSS, JavaScript
+- **Backend Development:** Node.js, Express, Restful Api, JWT
+- **DataBase:** MongoDb, MySQL, PostgreSQL, Redis
+- **Programming Languages:** C, C++, Java
+- **Design Tools:** Figma, Canva
+- **Version Control:** Git, GitHub
+- **Deployment Tools:** Render, Netlify, Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mongodb,mysql,postgres,redis,java,cpp,c,git,github,figma,vercel,netlify&theme=dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -81,21 +96,31 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anisha-Chhajer-Jain&layout=compact&theme=tokyonight)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Anisha-Chhajer-Jain&theme=tokyonight)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🐍 Contribution Snake Animation
 
 ![Snake animation](https://github.com/Anisha-Chhajer-Jain/Anisha-Chhajer-Jain/blob/output/github-contribution-grid-snake.svg)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+## 📢 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jadav-parth/)
+- 🐦 [Twitter](https://x.com/Parthjadav_2004)
+- ✉️ Email: parthjadav.cg@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/anisha-chhajer-844114367/
+- 💼 LinkedIn: 
 - 💻 GitHub: https://github.com/Anisha-Chhajer-Jain
+
+
