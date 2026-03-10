@@ -72,20 +72,8 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/anisha_chhajer/">
- <img 
-  src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest"
-  alt="LeetCode Stats"
-  width="70%"
-  style="max-width: 680px;"
-/>
 </a>
-
 <br/>
-
-<img src="https://img.shields.io/badge/Focus-Problem%20Solving-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Goal-Top%201%25-FB7185?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Habit-Daily%20Consistency-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
 </div>
 
 
