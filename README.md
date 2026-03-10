@@ -1,12 +1,6 @@
 
  # Hi 👋, I'm Anisha  
 
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&color=00EFFF&center=true&vCenter=true&width=600&repeat=false&lines=K%20A%20L%20P%20A%20N%20%5B3k%5D" 
-    alt="Typing Animation" 
-  />
-</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
