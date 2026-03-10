@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/3kz">
+<a href="https://leetcode.com/u/anisha_chhajer/">
  <img 
   src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest"
   alt="LeetCode Stats"
@@ -81,10 +81,6 @@
 </a>
 
 <br/>
-
-<a href="https://github.com/Kalpan2007/dsa-2026" style="margin-right: 16px;">
-  <img src="https://img.shields.io/badge/Daily%20DSA%20Repo-View%20Progress-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <img src="https://img.shields.io/badge/Focus-Problem%20Solving-38BDF8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Goal-Top%201%25-FB7185?style=for-the-badge"/>
