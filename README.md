@@ -1,37 +1,12 @@
-<!-- # Hi 👋, I'm Anisha
-
-🎓 Student | 💻 Developer | 🚀 Tech Enthusiast  
-
----
-
-## 👩‍💻 About Me
-- 🌱 Currently learning **MERN Stack**
-- 💡 Interested in **Web Development & AI**
-- 🏆 Participated in **Hackathons**
-- 🎯 Goal: Become a **Full Stack Developer**
-
----
-
-## 🛠️ Tech Stack
-- Languages: JavaScript, C++, Python
-- Frontend: HTML, CSS, React
-- Backend: Node.js, Express
-- Database: MongoDB
-- Tools: Git, GitHub, Figma
-
----
-
-## 📊 GitHub Stats
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
-
-
-## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOURPROFILE
-- GitHub: https://github.com/YOURUSERNAME
- --> -->
 
  # Hi 👋, I'm Anisha  
+
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2200&pause=900&color=00EFFF&center=true&vCenter=true&width=600&repeat=false&lines=K%20A%20L%20P%20A%20N%20%5B3k%5D" 
+    alt="Typing Animation" 
+  />
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
@@ -40,6 +15,12 @@
 🎓 Student | 💻 Developer | 🚀 Tech Enthusiast  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/3KZ)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://kalpankaneriya.netlify.app) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@3kverse)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/3kz)
+
 
 ## 👩‍💻 About Me
 - 🌱 Currently learning **MERN Stack**
@@ -89,6 +70,46 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/3kz">
+ <img 
+  src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest"
+  alt="LeetCode Stats"
+  width="70%"
+  style="max-width: 680px;"
+/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Kalpan2007/dsa-2026" style="margin-right: 16px;">
+  <img src="https://img.shields.io/badge/Daily%20DSA%20Repo-View%20Progress-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Focus-Problem%20Solving-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Goal-Top%201%25-FB7185?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Habit-Daily%20Consistency-F59E0B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</div>
+
+
+
+
+## 🛠️ Technology Arsenal
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,nestjs,aws,docker,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
+
+---
+
+
+
+
 
 ## 📊 GitHub Stats
 
