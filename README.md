@@ -1,6 +1,7 @@
 
  # Hi 👋, I'm Anisha  
 
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="1000" alt="coding animation"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
@@ -50,34 +51,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-## 🚀 Skills
-
-- **Frontend Development:** React, Next Js, HTML, CSS, JavaScript
-- **Backend Development:** Node.js, Express, Restful Api, JWT
-- **DataBase:** MongoDb, MySQL, PostgreSQL, Redis
-- **Programming Languages:** C, C++, Java
-- **Design Tools:** Figma, Canva
-- **Version Control:** Git, GitHub
-- **Deployment Tools:** Render, Netlify, Vercel
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mongodb,mysql,postgres,redis,java,cpp,c,git,github,figma,vercel,netlify&theme=dark" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-
-
-## 🧩 LeetCode Journey
-
-<div align="center">
-
-<a href="https://leetcode.com/u/anisha_chhajer/">
-</a>
-<br/>
-</div>
-
-
-
 
 ## 🛠️ Technology Arsenal
 
@@ -86,22 +59,21 @@
 ---
 
 
-
-
-
 ## 📊 GitHub Stats
 
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?Anisha-Chhajer-Jain&show_icons=true&theme=tokyonight)
+![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisha-Chhajer-Jain&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anisha-Chhajer-Jain&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-Chhajer-Jain&layout=compact&theme=tokyonight)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anisha-Chhajer-Jain&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anisha-Chhajer-Jain&theme=tokyonight)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+
 
 ## 🐍 Contribution Snake Animation
 
