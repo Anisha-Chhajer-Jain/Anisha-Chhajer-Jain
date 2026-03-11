@@ -77,9 +77,10 @@
 
 ## 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/Anisha-Chhajer-Jain/Anisha-Chhajer-Jain/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Anisha-Chhajer-Jain/Anisha-Chhajer-Jain/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
 
 ## 🔗 Connect With Me
 
