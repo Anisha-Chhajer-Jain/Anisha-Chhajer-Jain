@@ -27,7 +27,6 @@
 
 
 
-
 ## 👩‍💻 About Me
 - 🌱 Currently learning **MERN Stack**
 - 💡 Interested in **Web Development & AI**
@@ -88,17 +87,7 @@
 <br/>
 </div>
 
-
-
-
-## 🛠️ Technology Arsenal
-
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,nestjs,aws,docker,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
-
----
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 
 ## 📊 GitHub Stats
@@ -123,13 +112,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/anisha-chhajer-844114367/)
-- 🐦 [Twitter](https://x.com/anisha_chhajer)
-- ✉️ Email: anishachhajer16@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 
 
