@@ -10,10 +10,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/3KZ)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://kalpankaneriya.netlify.app) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@3kverse)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/3kz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anisha-chhajer-844114367/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@AnishaChhajerJain)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
+
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anisha-chhajer-844114367/)
+- 🐦 [Twitter](https://x.com/anisha_chhajer)
+- ✉️ Email: anishachhajer16@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+
 
 
 ## 👩‍💻 About Me
@@ -65,29 +76,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-
-
-## 🧩 LeetCode Journey
-
-<div align="center">
-
-<a href="https://leetcode.com/u/anisha_chhajer/">
-</a>
-<br/>
-</div>
-
-
-
-
-## 🛠️ Technology Arsenal
-
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,nestjs,aws,docker,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
-
----
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -108,15 +97,6 @@
 ![Snake animation](https://github.com/Anisha-Chhajer-Jain/Anisha-Chhajer-Jain/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/anisha-chhajer-844114367/)
-- 🐦 [Twitter](https://x.com/anisha_chhajer)
-- ✉️ Email: anishachhajer16@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
 
 
 
