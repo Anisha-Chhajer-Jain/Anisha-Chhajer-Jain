@@ -1,6 +1,7 @@
 
  # Hi 👋, I'm Anisha  
 
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="1000" alt="coding animation"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
@@ -76,27 +77,60 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/anisha_chhajer/">
+</a>
+<br/>
+</div>
+
+
+
+
+## 🛠️ Technology Arsenal
+
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,materialui,nodejs,express,nestjs,aws,docker,js,ts,tailwind,html,css,postgresql,mongodb,redis,supabase,postman,github,git,figma,netlify,notion,npm&perline=8&theme=dark" alt="Tech Stack"/>
+
+---
+
+
+
+
 
 ## 📊 GitHub Stats
 
-![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?Anisha-Chhajer-Jain&show_icons=true&theme=tokyonight)
+![Anisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anisha-Chhajer-Jain&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Anisha-Chhajer-Jain&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisha-Chhajer-Jain&layout=compact&theme=tokyonight)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anisha-Chhajer-Jain&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anisha-Chhajer-Jain&theme=tokyonight)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+
 
 ## 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/Anisha-Chhajer-Jain/Anisha-Chhajer-Jain/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Anisha-Chhajer-Jain/Anisha-Chhajer-Jain/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anisha-chhajer-844114367/)
+- 🐦 [Twitter](https://x.com/anisha_chhajer)
+- ✉️ Email: anishachhajer16@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
 
 
 
