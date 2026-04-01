@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/f46cd80c-baf6-44e6-a70d-f5d3e19eb5fa" /><!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
 </div>
@@ -18,16 +18,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
 
 
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/anisha-chhajer-844114367/)
-- 🐦 [Twitter](https://x.com/anisha_chhajer)
-- ✉️ Email: anishachhajer16@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-
-
 ## 👩‍💻 About Me
 - 🌱 Currently learning **MERN Stack**
 - 💡 Interested in **Web Development & AI**
@@ -39,33 +29,6 @@
 - 🤝 Enjoy collaborating and working in **team environments**  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
-
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-
-
-
 
 ## 🛠️ Tech Stack
 
@@ -165,17 +128,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Anisha-Chhajer-Jain&theme=tokyonight)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-
-
-## 🐍 Contribution Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/Anisha-Chhajer-Jain/Anisha-Chhajer-Jain/output/github-contribution-grid-snake.svg)
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -186,6 +138,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3000&pause=2000&color=BD93F9&center=true&vCenter=true&random=false&width=500&lines=%E2%9C%A8+Learning%2C+Living%2C+and+Leveling+Up.+%E2%9C%A8" alt="Motto" />
 
+<br><br>
 
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Portfolio-bd93f9?style=for-the-badge&labelColor=282a36" alt="Portfolio" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/anisha-chhajer-844114367/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20LinkedIn-bd93f9?style=for-the-badge&labelColor=282a36" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:anishachhajer16@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Email-bd93f9?style=for-the-badge&labelColor=282a36" alt="Email" />
+</a>&nbsp;
+<a href="https://www.instagram.com/Mr_shyara" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Instagram-bd93f9?style=for-the-badge&labelColor=282a36" alt="Instagram" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Designed%20%26%20Built%20with%20%E2%9D%A4%EF%B8%8F%20by-Anisha%20Chhajer-bd93f9?style=flat-square&labelColor=282a36" alt="Built by" />&nbsp;
+<img src="https://img.shields.io/badge/%C2%A9%202026-All%20Rights%20Reserved-ff79c6?style=flat-square&labelColor=282a36" alt="Copyright" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:bd93f9,100:282a36&height=80&section=footer" width="100%" alt="Footer" />
+
+</div>
+---
 
