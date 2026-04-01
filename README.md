@@ -1,4 +1,4 @@
-<img width="1333" height="745" alt="image" src="https://github.com/user-attachments/assets/f46cd80c-baf6-44e6-a70d-f5d3e19eb5fa" /><!-- HEADER -->
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
 </div>
