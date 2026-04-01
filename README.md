@@ -1,7 +1,9 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
+</div>
 
- # Hi 👋, I'm Anisha  
-
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="1000" alt="coding animation"/>
+<br>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
@@ -88,6 +90,68 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+
+
+<!-- GITHUB STATS -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhruvesh1611&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Dhruvesh1611&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&border_radius=10" height="165" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvesh1611&theme=dracula&hide_border=true&border_radius=10" height="165" alt="streak stats" />
+</div>
+
+---
+
+<!-- GITHUB METRICS DASHBOARD -->
+
+
+
+<!-- ACTIVITY GRAPH -->
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvesh1611&theme=dracula&hide_border=true&radius=10" width="95%" alt="activity graph" />
+</div>
+
+---
+
+<!-- CONTRIBUTION HEATMAP -->
+<!-- ### 🌍 Contribution Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/BD93F9/Dhruvesh1611" alt="Contribution Heatmap" width="95%" />
+</div> -->
+
+<br>
+
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  3D CONTRIBUTION CHART — ENABLE AFTER FIRST PUSH           ║
+  ║                                                              ║
+  ║  After pushing to GitHub:                                   ║
+  ║  1. Go to Actions tab → "Generate 3D Contribution Chart"   ║
+  ║  2. Click "Run workflow" → "Run workflow"                   ║
+  ║  3. Wait ~2 min for it to finish                            ║
+  ║  4. Uncomment the block below to show the 3D chart          ║
+  ╚══════════════════════════════════════════════════════════════╝
+
+### 🧊 3D Contribution Chart
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D Contribution Chart" src="https://raw.githubusercontent.com/Dhruvesh1611/Dhruvesh1611/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+  </picture>
+</div>
+-->
 
 
 ## 📊 GitHub Stats
