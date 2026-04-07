@@ -9,14 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
 </p>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anisha-chhajer-844114367/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@AnishaChhajerJain)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
-
 
 ## 👩‍💻 About Me
 - 🌱 Currently learning **MERN Stack**
@@ -29,6 +22,16 @@
 - 🤝 Enjoy collaborating and working in **team environments**  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anisha-chhajer-844114367/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@AnishaChhajerJain)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
+
+
+
 
 ## 🛠️ Tech Stack
 
@@ -79,6 +82,22 @@
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
+<!-- Skill level bar section using progress-bar style badges -->
+<h4>📊 &nbsp;Skill Proficiency</h4>
+
+<br/>
+
+| Skill | Proficiency | Level |
+|:------|:------------|:------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | `██████████` 100% | Expert |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | `████████░░` 80% | Advanced |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `███████░░░` 75% | Proficient |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | `██████░░░░` 65% | Intermediate |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `██████░░░░` 60% | Intermediate |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `█████░░░░░` 55% | Intermediate |
+
+</div>
+
 ## 🚀 Skills
 
 - **Frontend Development:** React, Next Js, HTML, CSS, JavaScript
@@ -94,6 +113,33 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
+<!-- ═══════════════════════════════════════════════════════════════════════
+                      § 4 — LEETCODE STATS
+═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<h2>⚡ &nbsp;LeetCode Journey</h2>
+
+<sub>Practising daily — Arrays · Strings · Trees · Graphs · Dynamic Programming</sub>
+
+<br/><br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/aryan05_patel?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/anisha_chhajer)
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/Visit%20My%20LeetCode-aryan05__patel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/anisha_chhajer)
+&nbsp;
+![Algo](https://img.shields.io/badge/Focus-Algorithms%20%26%20Patterns-58A6FF?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
