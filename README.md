@@ -25,9 +25,8 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anisha-chhajer-844114367/)
+[![LeetCode]](anishachhajer16@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1UDhTCxC-GV6XBmfUfLjVIRWdXNShc_CB/view?usp=sharing" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@AnishaChhajerJain)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
 
 
@@ -76,25 +75,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
-<!-- Skill level bar section using progress-bar style badges -->
-<h4>📊 &nbsp;Skill Proficiency</h4>
-
-<br/>
-
-| Skill | Proficiency | Level |
-|:------|:------------|:------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | `██████████` 100% | Expert |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | `████████░░` 80% | Advanced |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `███████░░░` 75% | Proficient |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | `██████░░░░` 65% | Intermediate |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | `██████░░░░` 60% | Intermediate |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `█████░░░░░` 55% | Intermediate |
 
 </div>
 
@@ -173,20 +153,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3000&pause=2000&color=BD93F9&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Learning%2C+Living%2C+and+Leveling+Up.+%E2%9C%A8" />
-
-<br><br>
-
-<a href="https://anishachhajer.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20Portfolio-bd93f9?style=for-the-badge&labelColor=282a36" />
-</a>
-
-<a href="https://www.linkedin.com/in/anisha-chhajer-844114367/" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20LinkedIn-bd93f9?style=for-the-badge&labelColor=282a36" />
-</a>
-
-<a href="mailto:anishachhajer16@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20Email-bd93f9?style=for-the-badge&labelColor=282a36" />
-</a>
 
 <br><br>
 
