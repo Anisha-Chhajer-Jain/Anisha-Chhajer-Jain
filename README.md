@@ -11,7 +11,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
-## 👩‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════════════
+                         § 1 — ABOUT ME
+═══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="52%" valign="top">
+
+<h3>🧑‍💻 About Me</h3>
+
+```yaml
+# ── aryan.config.yaml ──────────────────────
 - 🌱 Currently learning **MERN Stack**
 - 💡 Interested in **Web Development & AI**
 - 🎯 Goal: Become a **Full Stack Developer** 
@@ -20,16 +35,40 @@
 - 🌱 Passionate about **clean UI & performance optimization**  
 - 🧠 Strong in **DSA & Problem Solving**  
 - 🤝 Enjoy collaborating and working in **team environments**  
+# ───────────────────────────────────────────
+```
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="developer at work"/>
+
+<br/><br/>
+
+<table align="center" border="0" cellspacing="4">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/🎓-CSE%20Student-1a1b27?style=flat-square&labelColor=1a1b27&color=58A6FF"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/💼-Open%20to%20Work-1a1b27?style=flat-square&labelColor=1a1b27&color=3DDC84"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/⚡-MERN%20Stack-1a1b27?style=flat-square&labelColor=1a1b27&color=FFA116"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/🧠-DSA%20Grinder-1a1b27?style=flat-square&labelColor=1a1b27&color=E040FB"/></td>
+  </tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Connect With Me
 
-[![LeetCode]](anishachhajer16@gmail.com)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1UDhTCxC-GV6XBmfUfLjVIRWdXNShc_CB/view?usp=sharing" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
-
-
 
 
 ## 🛠️ Tech Stack
