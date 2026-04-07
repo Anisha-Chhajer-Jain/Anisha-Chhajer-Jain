@@ -9,7 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════
                          § 1 — ABOUT ME
@@ -21,25 +20,28 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="52%" valign="top">
+<td width="48%" valign="top">
 
 <h3>🧑‍💻 About Me</h3>
 
-```yaml
-# ── aryan.config.yaml ──────────────────────
+```
+
 - 🌱 Currently learning **MERN Stack**
 - 💡 Interested in **Web Development & AI**
 - 🎯 Goal: Become a **Full Stack Developer** 
-- 🔭 Building **real-world scalable applications**  
+- 🔭 Building **real-world scalable
+  applications**  
 - 🏆 Participated in **Hackathons**
-- 🌱 Passionate about **clean UI & performance optimization**  
+- 🌱 Passionate about **clean UI &
+    performance optimization**  
 - 🧠 Strong in **DSA & Problem Solving**  
-- 🤝 Enjoy collaborating and working in **team environments**  
-# ───────────────────────────────────────────
+- 🤝 Enjoy collaborating and working in
+   **team environments**  
+
 ```
 </td>
 <td width="4%"></td>
-<td width="44%" valign="top" align="center">
+<td width="54%" valign="top" align="center">
 
 <br/>
 
@@ -139,8 +141,6 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/Visit%20My%20LeetCode-anisha_chhajer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/anisha_chhajer)
-&nbsp;
 ![Algo](https://img.shields.io/badge/Focus-Algorithms%20%26%20Patterns-58A6FF?style=for-the-badge&labelColor=0d1117)
 
 </div>
