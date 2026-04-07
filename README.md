@@ -120,7 +120,7 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/Visit%20My%20LeetCode-aryan05__patel-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/anisha_chhajer)
+[![LeetCode](https://img.shields.io/badge/Visit%20My%20LeetCode-anisha_chhajer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117)](https://leetcode.com/anisha_chhajer)
 &nbsp;
 ![Algo](https://img.shields.io/badge/Focus-Algorithms%20%26%20Patterns-58A6FF?style=for-the-badge&labelColor=0d1117)
 
