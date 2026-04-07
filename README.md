@@ -26,7 +26,7 @@
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anisha-chhajer-844114367/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1n-VuI_apXRSqF1KR-XxWryoyRHIvji9B/view?usp=drive_link" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1UDhTCxC-GV6XBmfUfLjVIRWdXNShc_CB/view?usp=sharing" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@AnishaChhajerJain)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
 
@@ -97,19 +97,6 @@
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | `█████░░░░░` 55% | Intermediate |
 
 </div>
-
-## 🚀 Skills
-
-- **Frontend Development:** React, Next Js, HTML, CSS, JavaScript
-- **Backend Development:** Node.js, Express, Restful Api, JWT
-- **DataBase:** MongoDb, MySQL, PostgreSQL, Redis
-- **Programming Languages:** C, C++, Java
-- **Design Tools:** Figma, Canva
-- **Version Control:** Git, GitHub
-- **Deployment Tools:** Render, Netlify, Vercel
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mongodb,mysql,postgres,redis,java,cpp,c,git,github,figma,vercel,netlify&theme=dark" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
 
