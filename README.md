@@ -29,7 +29,8 @@
 <td width="48%" valign="top">
 
 <h3>🧑‍💻 About Me</h3>
----
+
+```
 <ul>
   <li>🌱 Currently learning <strong>MERN Stack</strong></li>
   <li>💡 Interested in <strong>Web Development & AI</strong></li>
@@ -39,7 +40,7 @@
   <li>🌱 Passionate about <strong>clean UI & performance optimization</strong></li>
   <li>🧠 Strong in <strong>DSA & Problem Solving</strong></li>
   <li>🤝 Enjoy collaborating and working in <strong>team environments</strong></li>
-</ul>
+</ul> 
 
 ```
 </td>
