@@ -29,14 +29,11 @@
 - 🌱 Currently learning **MERN Stack**
 - 💡 Interested in **Web Development & AI**
 - 🎯 Goal: Become a **Full Stack Developer** 
-- 🔭 Building **real-world scalable
-  applications**  
+- 🔭 Building **real-world scalable applications**  
 - 🏆 Participated in **Hackathons**
-- 🌱 Passionate about **clean UI &
-    performance optimization**  
+- 🌱 Passionate about **clean UI & performance optimization**  
 - 🧠 Strong in **DSA & Problem Solving**  
-- 🤝 Enjoy collaborating and working in
-   **team environments**  
+- 🤝 Enjoy collaborating and working in **team environments**  
 
 ```
 </td>
