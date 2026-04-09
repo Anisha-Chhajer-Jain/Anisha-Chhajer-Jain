@@ -29,17 +29,17 @@
 <td width="48%" valign="top">
 
 <h3>🧑‍💻 About Me</h3>
-
-```
-
-- 🌱 Currently learning **MERN Stack**
-- 💡 Interested in **Web Development & AI**
-- 🎯 Goal: Become a **Full Stack Developer** 
-- 🔭 Building **real-world scalable applications**  
-- 🏆 Participated in **Hackathons**
-- 🌱 Passionate about **clean UI & performance optimization**  
-- 🧠 Strong in **DSA & Problem Solving**  
-- 🤝 Enjoy collaborating and working in **team environments**  
+---
+<ul>
+  <li>🌱 Currently learning <strong>MERN Stack</strong></li>
+  <li>💡 Interested in <strong>Web Development & AI</strong></li>
+  <li>🎯 Goal: Become a <strong>Full Stack Developer</strong></li>
+  <li>🔭 Building <strong>real-world scalable applications</strong></li>
+  <li>🏆 Participated in <strong>Hackathons</strong></li>
+  <li>🌱 Passionate about <strong>clean UI & performance optimization</strong></li>
+  <li>🧠 Strong in <strong>DSA & Problem Solving</strong></li>
+  <li>🤝 Enjoy collaborating and working in <strong>team environments</strong></li>
+</ul>
 
 ```
 </td>
