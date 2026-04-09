@@ -2,10 +2,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
 </div>
+<div align="center">
 <p>
-  <img src="https://komarev.com/ghpvc/?username=hanumanraj07&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hanumanraj07?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Anisha-Chhajer-Jain&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Anisha-Chhajer-Jain?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" />
 </p>
+</div>
 
 <br>
 
@@ -69,9 +71,15 @@
 
 ## Connect With Me
 
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/) <a href="https://drive.google.com/file/d/1UDhTCxC-GV6XBmfUfLjVIRWdXNShc_CB/view?usp=sharing" download> <img src="https://img.shields.io/badge/Resume-Download-1E90FF?style=for-the-badge&logo=files&logoColor=white" /> </a>
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UDhTCxC-GV6XBmfUfLjVIRWdXNShc_CB/view?usp=sharing)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anisha_chhajer16)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/anisha_chhajer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://anishachhajer.netlify.app/)
+
+</div>
+
 
 
 ## 🛠️ Tech Stack
