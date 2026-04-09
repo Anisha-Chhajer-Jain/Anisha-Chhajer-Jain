@@ -173,6 +173,38 @@
 
 ---
 
+<!-- GITHUB STATS -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anisha-Chhajer-Jain&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=c792ea&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b27" height="165" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anisha-Chhajer-Jain&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&title_color=c792ea&text_color=a9b1d6&bg_color=1a1b27" height="165" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anisha-Chhajer-Jain&theme=tokyonight&hide_border=true&border_radius=12&ring=bb9af7&fire=c792ea&currStreakLabel=c792ea&background=1a1b27" height="165" alt="streak stats" />
+</div>
+
+-------
+<!-- GITHUB STATS -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anisha-Chhajer-Jain&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=c792ea&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b27" height="165" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anisha-Chhajer-Jain&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&title_color=c792ea&text_color=a9b1d6&bg_color=1a1b27" height="165" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anisha-Chhajer-Jain&theme=tokyonight&hide_border=true&border_radius=12&ring=bb9af7&fire=c792ea&currStreakLabel=c792ea&background=1a1b27" height="165" alt="streak stats" />
+</div>
+------
+
 <!-- GITHUB METRICS DASHBOARD -->
 
 
