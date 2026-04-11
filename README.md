@@ -9,7 +9,7 @@
 </div> -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:4facfe,100:00f2fe&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:203a43&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=4da6ff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=4da6ff" 
     width="100%" 
     alt="Header" 
   />
