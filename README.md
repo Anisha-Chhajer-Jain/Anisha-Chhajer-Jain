@@ -23,7 +23,10 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Enthusiast;+Full+Stack+Web+Developer;UI/UX+ Designer;Buliding+Scalable+Web+Apps" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Student+%7C+Developer;MERN+Stack+Enthusiast;Full+Stack+Web+Developer;UI%2FUX+Designer;Building+Scalable+Web+Apps" 
+    alt="Typing SVG" 
+  />
 </p>
 
 
