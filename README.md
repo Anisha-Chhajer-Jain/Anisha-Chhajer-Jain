@@ -17,7 +17,6 @@
 <div align="center">
 <p>
   <img src="https://komarev.com/ghpvc/?username=Anisha-Chhajer-Jain&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Anisha-Chhajer-Jain?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" />
 </p>
 </div>
 
