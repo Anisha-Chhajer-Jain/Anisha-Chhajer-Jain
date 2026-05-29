@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Learner;Tech+Enthusiast;Future+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+%7C+Developer;MERN+Stack+Enthusiast;+Full+Stack+Web+Developer;UI/UX+ Designer;Buliding+Scalable+Web+Apps" />
 </p>
 
 
