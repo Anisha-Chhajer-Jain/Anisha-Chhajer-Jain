@@ -156,7 +156,7 @@
 
 <br/><br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anisha_chhajer?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/anisha_chhajer)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Anisha-Chhajer-Jain?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/Anisha-Chhajer-Jain)
 
 <br/>
 
