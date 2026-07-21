@@ -1,12 +1,3 @@
-<!-- Animated Header -->
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hetavi%20Panchotia&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p> -->
-
-<!-- HEADER -->
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=bd93f9&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=ffffff" width="100%" alt="Header" />
-</div> -->
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,100:203a43&height=200&section=header&text=Anisha%20Chhajer&fontSize=50&fontColor=4da6ff&animation=fadeIn&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Developer%20(MERN)%20%E2%80%A2%20Open-Source%20Enthusiast%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=55&descColor=4da6ff" 
@@ -145,29 +136,15 @@
 <!-- ═══════════════════════════════════════════════════════════════════════
                       § 4 — LEETCODE STATS
 ═══════════════════════════════════════════════════════════════════════ -->
-
-<br/>
+## 🧩 LeetCode Progress
 
 <div align="center">
 
-<h2>⚡ &nbsp;LeetCode Journey</h2>
-
-<sub>Practising daily — Arrays · Strings · Trees · Graphs · Dynamic Programming</sub>
-
-<br/><br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Anisha-Chhajer-Jain?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/Anisha-Chhajer-Jain)
-
-<br/>
-
-![Algo](https://img.shields.io/badge/Focus-Algorithms%20%26%20Patterns-58A6FF?style=for-the-badge&labelColor=0d1117)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anisha_chhajer?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12)](https://leetcode.com/u/anisha_chhajer/)
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" />
-
+---
 
 <!-- GITHUB STATS -->
 ### 📊 GitHub Stats
