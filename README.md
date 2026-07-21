@@ -146,21 +146,27 @@
 
 ---
 
+
+
 <!-- GITHUB STATS -->
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anisha-Chhajer-Jain&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Anisha-Chhajer-Jain&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anisha-Chhajer-Jain&theme=tokyonight" height="165" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anisha-Chhajer-Jain&theme=tokyonight" height="165" />
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anisha-Chhajer-Jain&theme=tokyonight&hide_border=true&border_radius=12&ring=bb9af7&fire=c792ea&currStreakLabel=c792ea&background=1a1b27" height="165" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Anisha-Chhajer-Jain&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
 </div>
 
--------
+---
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anisha-Chhajer-Jain&theme=tokyonight&hide_border=true&radius=10" width="95%" />
+</div>
+---
 
 <!-- GITHUB METRICS DASHBOARD -->
 
