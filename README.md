@@ -168,6 +168,14 @@
 </div>
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anisha-Chhajer-Jain&theme=github-dark&hide_border=true&radius=12&bg_color=0D1117&color=58A6FF&line=7C3AED&point=22D3EE&area=true&area_color=58A6FF&title_color=C9D1D9" width="95%" />
+
+</div>
+
 <!-- GITHUB METRICS DASHBOARD -->
 
 
