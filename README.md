@@ -161,13 +161,6 @@
 </div>
 
 ---
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anisha-Chhajer-Jain&theme=tokyonight&hide_border=true&radius=10" width="95%" />
-</div>
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
