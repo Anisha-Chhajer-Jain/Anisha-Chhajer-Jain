@@ -173,13 +173,6 @@
 
 
 <!-- ACTIVITY GRAPH -->
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anisha-Chhajer-Jain&theme=dracula&hide_border=true&radius=10" width="95%" alt="activity graph" />
-</div>
-
----
 
 # 🐍 Contribution Snake
 
